@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+    <book>
+        <title>Harry Potter and the Philosopher's Stone</title>
+        <author>J.K. Rowling</author>
+        <year>1997</year>
+        <price>29.99</price>
+    </book>
+    <book>
+        <title>The Hobbit</title>
+        <author>J.R.R. Tolkien</author>
+        <year>1937</year>
+        <price>19.99</price>
+    </book>
+    <book>
+        <title>1984</title>
+        <author>George Orwell</author>
+        <year>1949</year>
+        <price>14.99</price>
+    </book>
+    <book>
+        <title>To Kill a Mockingbird</title>
+        <author>Harper Lee</author>
+        <year>1960</year>
+        <price>18.99</price>
+    </book>
+    <book>
+        <title>The Catcher in the Rye</title>
+        <author>J.D. Salinger</author>
+        <year>1951</year>
+        <price>15.99</price>
+    </book>
+    <book>
+        <title>Pride and Prejudice</title>
+        <author>Jane Austen</author>
+        <year>1813</year>
+        <price>12.99</price>
+    </book>
+    <book>
+        <title>The Great Gatsby</title>
+        <author>F. Scott Fitzgerald</author>
+        <year>1925</year>
+        <price>10.99</price>
+    </book>
+    <book>
+        <title>Crime and Punishment</title>
+        <author>Fyodor Dostoevsky</author>
+        <year>1866</year>
+        <price>17.99</price>
+    </book>
+    <book>
+        <title>War and Peace</title>
+        <author>Leo Tolstoy</author>
+        <year>1869</year>
+        <price>22.99</price>
+    </book>
+    <book>
+        <title>Wuthering Heights</title>
+        <author>Emily Brontë</author>
+        <year>1847</year>
+        <price>16.99</price>
+    </book>
+    <book>
+        <title>Frankenstein</title>
+        <author>Mary Shelley</author>
+        <year>1818</year>
+        <price>13.99</price>
+    </book>
+    <book>
+        <title>Brave New World</title>
+        <author>Aldous Huxley</author>
+        <year>1932</year>
+        <price>14.49</price>
+    </book>
+    <book>
+        <title>Fahrenheit 451</title>
+        <author>Ray Bradbury</author>
+        <year>1953</year>
+        <price>16.49</price>
+    </book>
+    <book>
+        <title>The Picture of Dorian Gray</title>
+        <author>Oscar Wilde</author>
+        <year>1890</year>
+        <price>11.99</price>
+    </book>
+    <book>
+        <title>Dracula</title>
+        <author>Bram Stoker</author>
+        <year>1897</year>
+        <price>14.99</price>
+    </book>
+    <book>
+        <title>The Odyssey</title>
+        <author>Homer</author>
+        <year>800 BC</year>
+        <price>18.99</price>
+    </book>
+    <book>
+        <title>Les Misérables</title>
+        <author>Victor Hugo</author>
+        <year>1862</year>
+        <price>21.99</price>
+    </book>
+    <book>
+        <title>The Lord of the Rings</title>
+        <author>J.R.R. Tolkien</author>
+        <year>1954</year>
+        <price>39.99</price>
+    </book>
+    <book>
+        <title>Catch-22</title>
+        <author>Joseph Heller</author>
+        <year>1961</year>
+        <price>17.49</price>
+    </book>
+    <book>
+        <title>The Sun Also Rises</title>
+        <author>Ernest Hemingway</author>
+        <year>1926</year>
+        <price>15.99</price>
+    </book>
+    <book>
+        <title>The Grapes of Wrath</title>
+        <author>John Steinbeck</author>
+        <year>1939</year>
+        <price>18.49</price>
+    </book>
+    <book>
+        <title>One Hundred Years of Solitude</title>
+        <author>Gabriel García Márquez</author>
+        <year>1967</year>
+        <price>19.99</price>
+    </book>
+</catalog>
